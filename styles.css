@@ -1,0 +1,23 @@
+body{
+    font-family:arial, sans-serif;
+    font-size: 12px;
+}
+h2{
+    text-align:center;
+    width: 80%;
+    margin:auto;
+    border:10px solid black;
+}
+
+table{
+   border-collapse:collapse;
+   width:100%; 
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+th{
+    background-color:#b2bec3;
+    font-weight: bold;
+}
